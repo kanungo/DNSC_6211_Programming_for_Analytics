@@ -1,4 +1,4 @@
-<h1>Linear Models - Regression and Logistic Regression<h1>
+<h1>Linear Models - Regression and Logistic Regression</h1>
 
 <b>Task:</b> Use data from two [Kaggle](https://www.kaggle.com) datasets to achieve a score that would rank in the top 75th percentile.
 
