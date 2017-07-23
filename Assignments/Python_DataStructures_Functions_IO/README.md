@@ -66,7 +66,7 @@
     import matplotlib
     plot_word_counts (dictionary):
       """
-      :param dict dictionary: the name of the dictionary
+      :param dict dictionary: the dictionary of word counts
       :return dict: a matplotlib plot object
       """
       # WRITE FUNCTION CODE HERE
@@ -84,7 +84,7 @@
 
 2. Loop through the file and calculate mean, standard dev, and median for each row. Use built in numpy functions for at least one of those descriptive statistics.
 
-3. Output this to a json file named ```part_3_output.json```using the structure provided below. Only include rows in the json file that have n > 3 (use an if statement).
+3. Output this to a json file named ```part_3_output.json```using the structure provided below. Only include rows in the json file that have n < 3 (use an if statement).
 
     ```
     [
