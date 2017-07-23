@@ -13,8 +13,8 @@
 
 <b>Data files:</b>
   - [part_1_data.csv](data/part_1_data.csv)
-  - [part_2_data.txt](/data/part_1_data.txt)
-  - [part_3_data.csv](/data/part_3_data.csv)
+  - [part_2_data.txt](data/part_1_data.txt)
+  - [part_3_data.csv](data/part_3_data.csv)
 
 <h3><b>Assignment:</b></h3>
 
