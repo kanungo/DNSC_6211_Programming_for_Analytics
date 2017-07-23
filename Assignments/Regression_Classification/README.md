@@ -13,7 +13,7 @@
 <b>Deliverables:</b>
   - 3 screenshots of your Kaggle submissions with scores in the top 75th percentile on the LB(leaderboard)
 
-  - File(s) of your code
+  - File(s) of your code <i>(Students may use any python based machine learning API's for the tasks and are not limited to sci-kit learn. Other technologies students might find useful and more challenging: H2O.ai, Apache Spark (PySpark), XGBoost)</i>
 
 
 <h3><b>Assignment:</b></h3>
@@ -96,7 +96,7 @@
     # LOAD DATA HERE
 
     #create model object with hyperparamater n_estimators
-    #this will make a 500 trees in the model
+    #this will make 500 trees in the model
     clf = RandomForestClassifier(n_estimators=500)
 
     # train the model with training frames
