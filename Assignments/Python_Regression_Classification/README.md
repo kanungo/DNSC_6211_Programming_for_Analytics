@@ -6,7 +6,7 @@
 
 <b>Datasets:</b>
   - [Regression](https://en.wikipedia.org/wiki/Regression_analysis) - [Allstate Claims Severity]( https://www.kaggle.com/c/allstate-claims-severity/data)
-  - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) - [Springleaf Marketing](https://www.kaggle.com/c/springleaf-marketing-r    esponse/data)
+  - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) - [Springleaf Marketing](https://www.kaggle.com/c/springleaf-marketing-response/data)
   - [Classification](https://en.wikipedia.org/wiki/Statistical_classification) - [Animal Shelter Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes/data)
 
 
