@@ -4,6 +4,7 @@
 
 For parts 1 and 2 you need to provide a graphical output which looks like the following (the x axis represents sentiment score):
 
+![graph](resources/samplegraph.png)
 
 <b>Due date:</b> TBD
 
