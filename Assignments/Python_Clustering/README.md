@@ -18,13 +18,13 @@
 
 <b>Part 1:</b> K-Means
 
-1. Download the dataset from [https://www.kaggle.com/c/forest-cover-type-prediction/data](https://www.kaggle.com/c/forest-cover-type-prediction/data)
+1. Download the dataset from [https://www.kaggle.com/c/forest-cover-type-prediction/data](https://www.kaggle.com/c/forest-cover-type-prediction/data). <i>(Remember use the train data for this, because the test isn't labeled (doesn't have a Y variable, or otherwise known as as target variable. Y/Label/Target all mean the same thing, get used to seeing them all being used interchangeably in literature.).</i>
 
 2. Implement a k-means clustering algorithm from scratch (You may not use prewritten algorithms such as in sci-kit or other libraries). [Sample Tutorial - to get started](http://flothesof.github.io/k-means-numpy.html)
 
 3. Submit .csv file named `part1_new_feature.csv` of the new feature for the test dataset made from your cluster - number it 1-X, 1 is the first cluster, 2 is your second cluster, etc. <i>(The hardest part about clustering is figuring out what the right number of clusters is. There are a few mathematical approaches to selecting the right number of clusters, but many times its just a business rule. Visualization of the clusters is important.)</i>
 
-4. Find a new feature that has the highest correlation with the Y variable, Cover_Type. Try many different clusters till you find one with a high correlation. (<i> Hint: Use [scipy's pearsonr](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.pearsonr.html) method.) Submit the correlation you achieved to the Y variable in a file named `part1_correlation.txt`.
+4. Find a new feature that has the highest correlation with the Y variable, Cover_Type. Try many different clusters till you find one with a high correlation. (<i> Hint: Use [scipy's pearsonr](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.pearsonr.html) method.</i>) Submit the correlation you achieved to the Y variable in a file named `part1_correlation.txt`.
 
 
 <b>Grading Rubric:</b>
