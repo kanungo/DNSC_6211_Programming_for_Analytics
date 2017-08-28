@@ -3,8 +3,9 @@
 <b>Task:</b> Your task is based on scraping the following searches on [Yelp](http://www.yelp.com):
 
 1. Search term: `mexican food` Location: `Washington, DC`
-
+![screenshot](resources/mexican.png)
 2. Search term: `chinese food` Location: `Washington, DC`
+![graph](resources/chinese.png)
 
 <b>Due date:</b> TBD
 

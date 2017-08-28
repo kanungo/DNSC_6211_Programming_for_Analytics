@@ -1,6 +1,6 @@
 <h1>Sentiment Analysis: Using Twitter</h1>
 
-<b>Task:</b> Your task (to be completed as a group assignment) is based on using different twitter modules available for Python. You are required to perform sentiment analysis for four swing states: Michigan, Nevada and Wisconsin, and one swing state of your choosing. . You need to accomplish this using three modules: <i>tweepy</i>,  <i>twython</i>, and <i>textblob</i>.
+<b>Task:</b> Your task (to be completed as a group assignment) is based on using different twitter modules available for Python. You are required to perform sentiment analysis for four swing states: Michigan, Nevada and Wisconsin, and one swing state of your choosing. . You need to accomplish this using three modules: <i>tweepy</i>,  <i>twython</i>, and <i>textblob</i>. <b>For all parts you must filter tweets between November 1, 2016 and November 8, 2016. </b>
 
 For parts 1 and 2 you need to provide a graphical output which looks like the following (the x axis represents sentiment score):
 
